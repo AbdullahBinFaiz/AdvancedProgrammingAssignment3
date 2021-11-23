@@ -1,0 +1,1 @@
+Can I repeat words? Can it detect repeated words? Will it pick up any word I repeat in the sentence?
